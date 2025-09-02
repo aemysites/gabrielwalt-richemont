@@ -1,0 +1,4493 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 150
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 2,
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-16-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-16-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-17-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-15-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-09-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-10-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-16-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-15-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-18-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-19-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-07-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-08-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-16-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-15-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-16-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-10-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-11-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-11-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-12-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-10-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-11-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-13-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-14-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-11-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-12-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-07-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-08-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-16-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-17-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-16-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-12-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-13-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-15-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-10-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-11-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-07-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-08-8564758fa9430e613320764974c67e22751fe37f",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(185, 201, 208) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-03-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div_3",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "About us Driven by craftsmanship & creativity A leading luxury goods group, Richemont is the owner of prestigious Maisons, recognised for their excellence in jewellery, watches, fashion and accessories. As a family-spirited Group, our central and regional functions pool their expertise to guide, support and challenge our Maisons and businesses to design timeless creations and innovative services that preserve their unique heritage. We help our Maisons and businesses thrive in new and existing markets while setting unparalleled standards for service and embedding sustainable practices across our operations"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": ". See what we do"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "."
+                }
+              ],
+              "dissimilarity_score": 0.02
+            }
+          ],
+          "similarity_score": 0.98
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-10-08000bcf377fb03b10195ae07850ae9968658f7f",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-07-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-11-778146753469d17283a77f694c01a6801a595db0",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-11-778146753469d17283a77f694c01a6801a595db0",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-13-b6e88befaff6806a5a689f168ee36ad516c80f96",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 9,
+      "source": "Cards",
+      "target": "Cards (cards9)",
+      "key": "cards9",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-02-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Upcoming event Annual General Meeting The Annual General Meeting of shareholders of Compagnie Financi\u00e8re Richemont SA will be held at 10:00 CET at Hotel InterContinental, Geneva, Switzerland on Wednesday 10 September 2025. Read more"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div_5",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Recent"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Upcoming"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " event "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Watches and Wonders - Geneva 2025"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Annual"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Recap"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "General"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "From"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Meeting"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "1 April to"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "The"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "7"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Annual"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "April, the"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "General"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "heart"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Meeting"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " of "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Geneva beat"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "shareholders"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "of"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "watchmaking"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Compagnie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "rhythms. The general"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Financi\u00e8re"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "public"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Richemont"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "was"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "SA"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "able"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "will"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "be"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "discover"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "held"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "the"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "novelties"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "10:00"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "of"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "CET"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "countless"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "watch"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Hotel"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "brands"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "InterContinental"
+                },
+                {
+                  "change_type": "equal",
+                  "text": ", "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "including 12 Richemont Maisons"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Geneva"
+                },
+                {
+                  "change_type": "equal",
+                  "text": ", "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "from"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Switzerland"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Saturday"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "on"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Wednesday"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Monday"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "10"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "September"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Palexpo"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "2025"
+                },
+                {
+                  "change_type": "equal",
+                  "text": ". Read more"
+                }
+              ],
+              "dissimilarity_score": 0.81
+            }
+          ],
+          "similarity_score": 0.18999999999999995
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 11,
+      "source": "Cards",
+      "target": "Cards (cards11)",
+      "key": "cards11",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-09-ad008083a3af911f145d285a995094d8bf6d0eb1",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div_6__div__div__div__div__div_2__section__div_2",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "25 August 2025 Panerai opens the doors to its first ever boutique in Stuttgart 21 August 2025 IWC Schaffhausen opens its first standalone boutique in Scotland 16 July 2025 Richemont posts solid start to the year for its first quarter ended 30 June 2025"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": " 25 June 2025 Third cohort graduates from Richemont Mustaqbalkom Trainee Programme in the United Arab Emirates 20 June 2025 Vacheron Constantin celebrates 270th anniversary with a new flagship store in Seoul 16 June 2025 Van Cleef & Arpels unveils its first boutique in Florence, Italy"
+                }
+              ],
+              "dissimilarity_score": 0.17
+            }
+          ],
+          "similarity_score": 0.83
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-12-64e9f1885402fc5990cb9ffde7d99c51d1c2253b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-05-474c8f217725accc67d721c1bac8367ac703d9e4",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages12)",
+      "key": "cardsNoImages12",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cards13)",
+      "key": "cards13",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-15-eb72980a4e65f6e8c013d1d7f40b2a21b37c568c",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div_9__div__div__div__div__div_3__div__div_2",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Digital & innovation The digital presence of our Maison\u2019s enhance our clients' experience, gathering the latest technologies and solutions to provide a unique, tailored service. Your mission is to create a seamless omnichannel experience at anytime, anywhere, and on any device. Retail Our luxury boutiques are the heart of our business and immerse clients into our Maisons\u2019 universe. Your purpose is to offer our customers a truly inspirational and unique experience as well as building a lasting relationship based on trust. Discover our careers in Retail to craft the future. Design & creation Our Design & Creation teams use their imagination to conceive new iconic designs. Your mission is to respect our Maisons\u2019 artist codes while adding a contemporary essence to evolve their distinctiveness and style. Bring your creative flair to shape our future. Manufacturing Our Manufacturing team safeguard our Maisons\u2019 know-how and innovative spirit. Your mission is to craft the future by nurturing our distinctive craftsmanship to bring creative visions to life. Join us in our quest for creativity, innovation, and excellence"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": ". Marketing & communication Our Marketing & Communication teams share our Maisons' stories and enhance their identities. Your mission is to articulate and communicate the legend that perfectly embodies the spirit and values of our Maisons. Come attract and captivate our clients. IT & technology Our IT & Technology teams power our business success. You mission is to act as a trusted advisor and a business partner to our Maisons & businesses. You create value at an ever-increasing pace while minimising risk, enhancing existing offerings and providing deeper customer experiences. Operations Client-centricity is at our core and our omnichannel transformation means that our Maisons' products need optimum availability. Your mission is to position supply chain and operations as a key pillar and engine to deliver our business ambitions and meet our clients' expectations. Finance Analytical skills and acting as a valued business partner are important to us. You provide assistance and specialised advice to make our organisation operate more efficiently and achieve our business objectives. Legal The digital presence of our Maison\u2019s enhance our clients experience, gathering the latest technologies adn solutions to provide a unique, tailored service. Your mission is to create a seamless omni-channel experience at anytime, anywhere, and on any device. We invite you to build upon your heritage to craft the future. Human resources You have a flair for identifying talent inside and outside our organisation and help them to harness their curiosity and creativity to reach their full potential. Your mission is to support our employees during their journey, to strengthen our culture, and to promote diversity and inclusion, and equal opportunities for all"
+                },
+                {
+                  "change_type": "equal",
+                  "text": "."
+                }
+              ],
+              "dissimilarity_score": 0.09
+            }
+          ],
+          "similarity_score": 0.91
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-09-766258aa3b278050e88150c10a879a34d8a0669b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-04-0573358b8262a3e45096556871314183a78d3301",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-05-6a3af5a3e02db4efda06b93c6c386396c6a16421",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-06-21e68269e140308790d913245fdfb4318bba3385",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 16,
+      "source": "Columns",
+      "target": "Columns (columns16)",
+      "key": "columns16",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "source": "Columns",
+      "target": "Columns (columns18)",
+      "key": "columns18",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 19,
+      "source": "Cards",
+      "target": "Cards (cards19)",
+      "key": "cards19",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-11-778146753469d17283a77f694c01a6801a595db0",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 20,
+      "source": "Header",
+      "target": "Header (header20)",
+      "key": "header20",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "source": "Hero",
+      "target": "Hero (hero21)",
+      "key": "hero21",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cards22)",
+      "key": "cards22",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-06-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "cluster": 24,
+      "source": "Video",
+      "target": "Video (video24)",
+      "key": "video24",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-05-e9d9be5f45cbc24893708999af4e38f2f95b5243",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cards25)",
+      "key": "cards25",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-08-7e15f2add1d92005edf017dbf6c9b94058505444",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 26,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages26)",
+      "key": "cardsNoImages26",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-08-37849b318c82d99807ac9f10149974904ba4346a",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-09-8de2af9f0a4c1b62dc5329d8d9d7c2afb153a77d",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-01-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "mobile_richemont_banner_spring_2025.mp4 "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "At Richemont, We Craft the Future"
+                }
+              ],
+              "dissimilarity_score": 0.22
+            }
+          ],
+          "similarity_score": 0.78
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 28,
+      "source": "Columns",
+      "target": "Columns (columns28)",
+      "key": "columns28",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-05-71f99a3ff969693c128962127815bbbbffaa5cb4",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__main__div__div__div_4__div__div__div__div__div_2",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-10-f871a684ed71e92253a81a9b52c84094588b9aac",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-04-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 30,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages30)",
+      "key": "cardsNoImages30",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-12-d5b511a90f62bac40577f99adde5e308100c9b28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 31,
+      "source": "Cards",
+      "target": "Cards (cards31)",
+      "key": "cards31",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-12-727487852991faf2432aba51de620f3bcee61312",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 32,
+      "source": "Columns",
+      "target": "Columns (columns32)",
+      "key": "columns32",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-14-b9dd36bec3c2c94426593fe95b3c3a58b97740a9",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-12-a89cf9bc32fe38609a2568872af4c255b783a579",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-13-71f804ca8bb3ddee1a039b7d7fb7f0f580c608bb",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-13-71f804ca8bb3ddee1a039b7d7fb7f0f580c608bb",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-12-a89cf9bc32fe38609a2568872af4c255b783a579",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-11-e788a2c9416cd57c036c81e1687bf17441d51336",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-14-b9dd36bec3c2c94426593fe95b3c3a58b97740a9",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-13-71f804ca8bb3ddee1a039b7d7fb7f0f580c608bb",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 33,
+      "source": "Cards",
+      "target": "Cards (cards33)",
+      "key": "cards33",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 34,
+      "source": "Cards",
+      "target": "Cards (cards34)",
+      "key": "cards34",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-05-7e1f4549c1b8c9d234382d7fe9038476ef73025c",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns",
+      "target": "Columns (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+          "uuid": "04d72df8-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+          "uuid": "1c0e4436-16-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+          "uuid": "46df0e51-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-09-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+          "uuid": "4cd3ccb9-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+          "uuid": "57185fa3-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/",
+          "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+          "uuid": "57fbc00c-18-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-07-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+          "uuid": "738f647a-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+          "uuid": "7a94ca49-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-10-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+          "uuid": "aad1897e-11-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+          "uuid": "ac373365-10-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+          "uuid": "adc45032-13-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+          "uuid": "c0f29da7-11-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+          "uuid": "c3491d3a-07-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+          "uuid": "cc1038f2-16-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+          "uuid": "d3fb8bae-15-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/talent/",
+          "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+          "uuid": "dd531e25-12-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+          "uuid": "e7f95c83-14-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+          "uuid": "e8fa96e9-10-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+          "uuid": "fbd2de52-07-0a459baa9944b819c965bd5defd939b8a390d17d",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "source": "Columns",
+      "target": "Columns (columns37)",
+      "key": "columns37",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+          "uuid": "6b0edf3e-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 38,
+      "source": "Cards",
+      "target": "Cards (cards38)",
+      "key": "cards38",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+          "uuid": "a93c09f0-09-ad008083a3af911f145d285a995094d8bf6d0eb1",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 39,
+      "source": "Cards",
+      "target": "Cards (cards39)",
+      "key": "cards39",
+      "instances": [
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+          "uuid": "4a9ada87-07-f7018b54dd41c4695779fc51fbc1e89437cfd7ba",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 40,
+      "instances": [
+        {
+          "url": "https://www.richemont.com/investors/",
+          "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+          "uuid": "921776fa-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-07-0b45edabf5768277304006cb9cdf639f6f40eabc",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-10-5627186615a2fb86d69d533cf07ca03009014900",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-11-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-13-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-14-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "urlHash": "04d72df83e365e7730e51e89405eb7b94caf772d",
+      "uuid": "04d72df8-16-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-12-727487852991faf2432aba51de620f3bcee61312",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-13-97e3d0292c5da3f2575e285238e64b905a088217",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-15-567615942c7e78a4237d1bf2a4554bc46af81275",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "urlHash": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55",
+      "uuid": "1c0e4436-17-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-11-92a2e9e67d1a9ec77ab5ecb5cabd4e5b0c009283",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-13-727487852991faf2432aba51de620f3bcee61312",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "urlHash": "46df0e514b3085ea2a6835807d6141725f8fe907",
+      "uuid": "46df0e51-15-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/talent/why-join-us/",
+      "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+      "uuid": "4a9ada87-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/why-join-us/",
+      "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+      "uuid": "4a9ada87-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/why-join-us/",
+      "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+      "uuid": "4a9ada87-06-22cae4aab424ac78e635bb70866e891b27d0d00e",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/talent/why-join-us/",
+      "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+      "uuid": "4a9ada87-08-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/why-join-us/",
+      "urlHash": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff",
+      "uuid": "4a9ada87-10-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-11-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-12-007de82f61acc6706fa9890ef2756eeb4a651e90",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-14-b6e88befaff6806a5a689f168ee36ad516c80f96",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "urlHash": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b",
+      "uuid": "4cd3ccb9-16-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-12-727487852991faf2432aba51de620f3bcee61312",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "urlHash": "57185fa3f1b5ee9559f479718bde62073ec85b25",
+      "uuid": "57185fa3-15-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-04-9972e04a6cd3cc77c84b2bb0f7893eb55446947f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-07-0b45edabf5768277304006cb9cdf639f6f40eabc",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-08-731d8e1306d6a151812b3c7dc2f0e42b22d2385a",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-10-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-11-d5b511a90f62bac40577f99adde5e308100c9b28",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-12-e630bb92d56030a70b99d04e3a57bd09a3d08f63",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-13-0d4e1fa44ebcbcf43b8d5bc107c3163f5ab7950d",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-14-bbf31606dda5e75999db9d917aa2ce2c9e2e864b",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-16-3314b9e8d27c4bcbc5354b3f20cd24a1d80765dd",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-17-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://www.richemont.com/",
+      "urlHash": "57fbc00c934033ee7eaab2130a5d75698d046195",
+      "uuid": "57fbc00c-19-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/ambition-values/",
+      "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+      "uuid": "6b0edf3e-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/ambition-values/",
+      "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+      "uuid": "6b0edf3e-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/ambition-values/",
+      "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+      "uuid": "6b0edf3e-04-1ffe9d1f9627d27f7c3ef77843b7639dc931752c",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/ambition-values/",
+      "urlHash": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f",
+      "uuid": "6b0edf3e-08-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-11-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-12-007de82f61acc6706fa9890ef2756eeb4a651e90",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-14-b6e88befaff6806a5a689f168ee36ad516c80f96",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "urlHash": "738f647a2e2c883c764f80404dc151d346b50724",
+      "uuid": "738f647a-16-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+      "uuid": "7a94ca49-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+      "uuid": "7a94ca49-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+      "uuid": "7a94ca49-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+      "uuid": "7a94ca49-11-92a2e9e67d1a9ec77ab5ecb5cabd4e5b0c009283",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+      "uuid": "7a94ca49-13-727487852991faf2432aba51de620f3bcee61312",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "urlHash": "7a94ca49983ee146e5d8745a2e14d631390c57a9",
+      "uuid": "7a94ca49-15-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-04-b44bfb6f91053e616228982ab0752280ea739906",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-06-1f74d2009099c99588b1594f6e794e88bf25b485",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-07-1877a78403b4c5ce712766c24d5851089e3b93ee",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-09-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-10-e86f9c214d1901e3d9f6f9b20a0f7781de4bfb8c",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-11-19e901c56509bb8679e578de04ab9407da7df0b7",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-13-cd8ed3db581715d7bebb32a351b07370233dd354",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-14-d5b511a90f62bac40577f99adde5e308100c9b28",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "urlHash": "921776faaf9e5b26241d1f4ad54f23aedc27f57e",
+      "uuid": "921776fa-16-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/",
+      "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+      "uuid": "a93c09f0-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/",
+      "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+      "uuid": "a93c09f0-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/",
+      "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+      "uuid": "a93c09f0-07-0b45edabf5768277304006cb9cdf639f6f40eabc",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/",
+      "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+      "uuid": "a93c09f0-08-731d8e1306d6a151812b3c7dc2f0e42b22d2385a",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/",
+      "urlHash": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b",
+      "uuid": "a93c09f0-11-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/talent/technology-at-richemont/",
+      "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+      "uuid": "aad1897e-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/technology-at-richemont/",
+      "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+      "uuid": "aad1897e-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/technology-at-richemont/",
+      "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+      "uuid": "aad1897e-09-44010263c5302983692e71a861e4d61a7284d308",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/talent/technology-at-richemont/",
+      "urlHash": "aad1897e740f3e62b1a583cf40d43d47d6200b66",
+      "uuid": "aad1897e-12-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-04-b44bfb6f91053e616228982ab0752280ea739906",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "urlHash": "ac373365a469ed781f7abac499c2f9ae933082d0",
+      "uuid": "ac373365-11-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-09-d5b511a90f62bac40577f99adde5e308100c9b28",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[8]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-10-d173aa8bb694df2231c7ac7c9c4131439aaa0c17",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-12-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "urlHash": "adc450327b619b00207a4fc982301fc003225b0f",
+      "uuid": "adc45032-14-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-03-5dea24bcae919635fc7dc7794cce1c233e467e72",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-04-42812e12deeb81b22447c7ea83285ed34ee718e8",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-06-fbc4ae6026515de61766c3d38149de1ed11838a2",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-08-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-09-eed03ab406ede75e4a0255c550837a34dbb64d77",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "urlHash": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5",
+      "uuid": "c0f29da7-12-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/talent/career-areas/",
+      "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+      "uuid": "c3491d3a-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/career-areas/",
+      "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+      "uuid": "c3491d3a-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/career-areas/",
+      "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+      "uuid": "c3491d3a-06-eed03ab406ede75e4a0255c550837a34dbb64d77",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/talent/career-areas/",
+      "urlHash": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc",
+      "uuid": "c3491d3a-08-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-12-727487852991faf2432aba51de620f3bcee61312",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-13-97e3d0292c5da3f2575e285238e64b905a088217",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-15-567615942c7e78a4237d1bf2a4554bc46af81275",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[13]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "urlHash": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb",
+      "uuid": "cc1038f2-17-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-05-35ad74f999627b09812e74ead00c870c22869305",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-08-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-11-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-12-007de82f61acc6706fa9890ef2756eeb4a651e90",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-14-b6e88befaff6806a5a689f168ee36ad516c80f96",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "urlHash": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf",
+      "uuid": "d3fb8bae-16-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-03-dfc3dbc5c8ac0092d6d77773f1a6eb0944231797",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-07-0b45edabf5768277304006cb9cdf639f6f40eabc",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-08-42cd5de325a98e409973a9f12f90387b23b8209b",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-10-8de2af9f0a4c1b62dc5329d8d9d7c2afb153a77d",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-11-bf88f8af90b3bc8c6b7dce09aee8402a10335226",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[7]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "urlHash": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53",
+      "uuid": "dd531e25-13-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-05-e3ee391b36d7b50838147fe7d210e6d155a66b50",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-10-647e94dd150037b2bb4e6854656cf6e36f0fd5ab",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-11-778146753469d17283a77f694c01a6801a595db0",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[10]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-13-b6e88befaff6806a5a689f168ee36ad516c80f96",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[12]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "urlHash": "e7f95c8319befe6b435db6c296990a9f7e1fec3a",
+      "uuid": "e7f95c83-15-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/global-presence/",
+      "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+      "uuid": "e8fa96e9-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/global-presence/",
+      "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+      "uuid": "e8fa96e9-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/global-presence/",
+      "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+      "uuid": "e8fa96e9-07-08000bcf377fb03b10195ae07850ae9968658f7f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/global-presence/",
+      "urlHash": "e8fa96e909b2bb66cf66961c3552de555dc617b4",
+      "uuid": "e8fa96e9-11-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/history/",
+      "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+      "uuid": "fbd2de52-01-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+      "xpath": "/html[1]/body[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/history/",
+      "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+      "uuid": "fbd2de52-02-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/history/",
+      "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+      "uuid": "fbd2de52-03-400a50d0e49a881fecf04e01dbd9f264d251845b",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/history/",
+      "urlHash": "fbd2de529d2a8806798868135256a97e4495de57",
+      "uuid": "fbd2de52-08-8564758fa9430e613320764974c67e22751fe37f",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]",
+      "section": "section-2"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.richemont.com/",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": "Skip to main content"
+        },
+        {
+          "change_type": "insertion",
+          "text": "mobile_richemont_banner_spring_2025.mp4"
+        },
+        {
+          "change_type": "equal",
+          "text": " At Richemont, We Craft the Future Upcoming event Annual General Meeting The Annual General Meeting of shareholders of Compagnie Financi\u00e8re Richemont SA will be held at 10:00 CET at Hotel InterContinental, Geneva, Switzerland on Wednesday 10 September 2025. Read more About us Driven by craftsmanship & creativity A leading luxury goods group, Richemont is the owner of prestigious Maisons, recognised for their excellence in jewellery, watches, fashion and accessories. As a family-spirited Group, our central and regional functions pool their expertise to guide, support and challenge our Maisons and businesses to design timeless creations and innovative services that preserve their unique heritage. We help our Maisons and businesses thrive in new and existing markets while setting unparalleled standards for service and embedding sustainable practices across our operations. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "See what we do "
+        },
+        {
+          "change_type": "equal",
+          "text": "Our Maisons & businesses Recent event Watches and Wonders - Geneva 2025 Recap From 1 April to 7 April, the heart of Geneva beat to watchmaking rhythms. The general public was able to discover the novelties of countless watch brands, including 12 Richemont Maisons, from Saturday to Monday at Palexpo. Read more Latest press releases and news See all news 1 / 2 25 August 2025 Panerai opens the doors to its first ever boutique in Stuttgart 21 August 2025 IWC Schaffhausen opens its first standalone boutique in Scotland 16 July 2025 Richemont posts solid start to the year for its first quarter ended 30 June 2025 "
+        },
+        {
+          "change_type": "deletion",
+          "text": "25 June 2025 Third cohort graduates from Richemont Mustaqbalkom Trainee Programme in the United Arab Emirates 20 June 2025 Vacheron Constantin celebrates 270th anniversary with a new flagship store in Seoul 16 June 2025 Van Cleef & Arpels unveils its first boutique in Florence, Italy "
+        },
+        {
+          "change_type": "equal",
+          "text": "Sign up to our Press releases & news"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Enter your email address"
+        },
+        {
+          "change_type": "equal",
+          "text": " Enter your email address Subscribe About us Built for the long term, Richemont nurtures the distinctive craftsmanship, innovative spirit and creative inspiration of its Maisons and businesses. Ambition & values Talent Career areas 1 / 3 Digital & innovation The digital presence of our Maison\u2019s enhance our clients' experience, gathering the latest technologies and solutions to provide a unique, tailored service. Your mission is to create a seamless omnichannel experience at anytime, anywhere, and on any device. Retail Our luxury boutiques are the heart of our business and immerse clients into our Maisons\u2019 universe. Your purpose is to offer our customers a truly inspirational and unique experience as well as building a lasting relationship based on trust. Discover our careers in Retail to craft the future. Design & creation Our Design & Creation teams use their imagination to conceive new iconic designs. Your mission is to respect our Maisons\u2019 artist codes while adding a contemporary essence to evolve their distinctiveness and style. Bring your creative flair to shape our future. Manufacturing Our Manufacturing team safeguard our Maisons\u2019 know-how and innovative spirit. Your mission is to craft the future by nurturing our distinctive craftsmanship to bring creative visions to life. Join us in our quest for creativity, innovation, and excellence. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Marketing & communication"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Read"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Our"
+        },
+        {
+          "change_type": "insertion",
+          "text": "more"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Marketing & Communication"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Join"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "teams"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Richemont"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "share"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Explore"
+        },
+        {
+          "change_type": "equal",
+          "text": " our "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Maisons' stories"
+        },
+        {
+          "change_type": "insertion",
+          "text": "job"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "opportunities #top"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "enhance"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Cookie"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "their"
+        },
+        {
+          "change_type": "insertion",
+          "text": "policy"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "identities. Your"
+        },
+        {
+          "change_type": "insertion",
+          "text": "This"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "mission"
+        },
+        {
+          "change_type": "insertion",
+          "text": "website"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "is to"
+        },
+        {
+          "change_type": "insertion",
+          "text": "uses"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "articulate"
+        },
+        {
+          "change_type": "insertion",
+          "text": "cookies"
+        },
+        {
+          "change_type": "equal",
+          "text": " and "
+        },
+        {
+          "change_type": "deletion",
+          "text": "communicate"
+        },
+        {
+          "change_type": "insertion",
+          "text": "similar"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "the legend that perfectly embodies the spirit and values of our Maisons. Come attract and captivate our clients. IT & technology Our IT & Technology teams power our business success. You mission is"
+        },
+        {
+          "change_type": "insertion",
+          "text": "technologies"
+        },
+        {
+          "change_type": "equal",
+          "text": " to "
+        },
+        {
+          "change_type": "deletion",
+          "text": "act as a trusted advisor"
+        },
+        {
+          "change_type": "insertion",
+          "text": "operate"
+        },
+        {
+          "change_type": "equal",
+          "text": " and "
+        },
+        {
+          "change_type": "deletion",
+          "text": "a business partner to our Maisons & businesses. You create value at"
+        },
+        {
+          "change_type": "insertion",
+          "text": "offer"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "an"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "ever-increasing"
+        },
+        {
+          "change_type": "insertion",
+          "text": "corresponding"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "pace while minimising risk"
+        },
+        {
+          "change_type": "insertion",
+          "text": "services"
+        },
+        {
+          "change_type": "equal",
+          "text": ", "
+        },
+        {
+          "change_type": "deletion",
+          "text": "enhancing existing offerings and providing deeper customer experiences. Operations Client-centricity is at our core and our omnichannel transformation means that our Maisons' products need optimum availability. Your mission is to position supply chain and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "as"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "operations"
+        },
+        {
+          "change_type": "insertion",
+          "text": "well"
+        },
+        {
+          "change_type": "equal",
+          "text": " as "
+        },
+        {
+          "change_type": "deletion",
+          "text": "a"
+        },
+        {
+          "change_type": "insertion",
+          "text": "analytical"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "key"
+        },
+        {
+          "change_type": "insertion",
+          "text": "cookies (its"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "pillar"
+        },
+        {
+          "change_type": "insertion",
+          "text": "own"
+        },
+        {
+          "change_type": "equal",
+          "text": " and "
+        },
+        {
+          "change_type": "deletion",
+          "text": "engine"
+        },
+        {
+          "change_type": "insertion",
+          "text": "third"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": "parties) "
+        },
+        {
+          "change_type": "equal",
+          "text": "to "
+        },
+        {
+          "change_type": "deletion",
+          "text": "deliver our business ambitions"
+        },
+        {
+          "change_type": "insertion",
+          "text": "understand"
+        },
+        {
+          "change_type": "equal",
+          "text": " and "
+        },
+        {
+          "change_type": "deletion",
+          "text": "meet"
+        },
+        {
+          "change_type": "insertion",
+          "text": "improve"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "our"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "clients' expectations. Finance"
+        },
+        {
+          "change_type": "insertion",
+          "text": "user\u2019s"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Analytical"
+        },
+        {
+          "change_type": "insertion",
+          "text": "browsing"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "skills"
+        },
+        {
+          "change_type": "insertion",
+          "text": "experience"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "in"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "acting"
+        },
+        {
+          "change_type": "insertion",
+          "text": "line"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "as"
+        },
+        {
+          "change_type": "insertion",
+          "text": "with"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "a"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "valued"
+        },
+        {
+          "change_type": "insertion",
+          "text": "preferences"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "business"
+        },
+        {
+          "change_type": "insertion",
+          "text": "displayed"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "partner"
+        },
+        {
+          "change_type": "insertion",
+          "text": "by"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "are important"
+        },
+        {
+          "change_type": "insertion",
+          "text": "you"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "to"
+        },
+        {
+          "change_type": "insertion",
+          "text": "whilst"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "us"
+        },
+        {
+          "change_type": "insertion",
+          "text": "browsing"
+        },
+        {
+          "change_type": "equal",
+          "text": ". "
+        },
+        {
+          "change_type": "deletion",
+          "text": "You"
+        },
+        {
+          "change_type": "insertion",
+          "text": "To"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "provide"
+        },
+        {
+          "change_type": "insertion",
+          "text": "change"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "assistance"
+        },
+        {
+          "change_type": "insertion",
+          "text": "or"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "withdraw"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "specialised"
+        },
+        {
+          "change_type": "insertion",
+          "text": "your"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "advice"
+        },
+        {
+          "change_type": "insertion",
+          "text": "consent"
+        },
+        {
+          "change_type": "equal",
+          "text": " to "
+        },
+        {
+          "change_type": "deletion",
+          "text": "make"
+        },
+        {
+          "change_type": "insertion",
+          "text": "some"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "our"
+        },
+        {
+          "change_type": "insertion",
+          "text": "or"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "organisation"
+        },
+        {
+          "change_type": "insertion",
+          "text": "all"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "operate more efficiently and achieve our business objectives. Legal The digital presence of our Maison\u2019s enhance our clients experience"
+        },
+        {
+          "change_type": "insertion",
+          "text": "cookies"
+        },
+        {
+          "change_type": "equal",
+          "text": ", "
+        },
+        {
+          "change_type": "deletion",
+          "text": "gathering the"
+        },
+        {
+          "change_type": "insertion",
+          "text": "click"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "latest technologies adn solutions to provide a unique"
+        },
+        {
+          "change_type": "insertion",
+          "text": "on \u201cConfigure\u201d, or"
+        },
+        {
+          "change_type": "equal",
+          "text": ", "
+        },
+        {
+          "change_type": "deletion",
+          "text": "tailored service. Your mission is "
+        },
+        {
+          "change_type": "equal",
+          "text": "to "
+        },
+        {
+          "change_type": "deletion",
+          "text": "create"
+        },
+        {
+          "change_type": "insertion",
+          "text": "find"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "a seamless"
+        },
+        {
+          "change_type": "insertion",
+          "text": "out"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "omni-channel experience at anytime"
+        },
+        {
+          "change_type": "insertion",
+          "text": "more"
+        },
+        {
+          "change_type": "equal",
+          "text": ", "
+        },
+        {
+          "change_type": "deletion",
+          "text": "anywhere, and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "consult"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "our"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "any"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Cookie"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "device. We"
+        },
+        {
+          "change_type": "insertion",
+          "text": "policy . By"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "invite"
+        },
+        {
+          "change_type": "insertion",
+          "text": "clicking \u201cAllow"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": "all\u201d, "
+        },
+        {
+          "change_type": "equal",
+          "text": "you "
+        },
+        {
+          "change_type": "deletion",
+          "text": "to build upon"
+        },
+        {
+          "change_type": "insertion",
+          "text": "give"
+        },
+        {
+          "change_type": "equal",
+          "text": " your "
+        },
+        {
+          "change_type": "deletion",
+          "text": "heritage"
+        },
+        {
+          "change_type": "insertion",
+          "text": "consent"
+        },
+        {
+          "change_type": "equal",
+          "text": " to"
+        },
+        {
+          "change_type": "deletion",
+          "text": " craft"
+        },
+        {
+          "change_type": "equal",
+          "text": " the "
+        },
+        {
+          "change_type": "deletion",
+          "text": "future. Human resources You have a flair for identifying talent inside and outside our organisation and help them to harness their curiosity and creativity"
+        },
+        {
+          "change_type": "insertion",
+          "text": "use"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "to"
+        },
+        {
+          "change_type": "insertion",
+          "text": "of"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "reach"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "their"
+        },
+        {
+          "change_type": "insertion",
+          "text": "above-mentioned"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "full potential"
+        },
+        {
+          "change_type": "insertion",
+          "text": "cookies"
+        },
+        {
+          "change_type": "equal",
+          "text": ". "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Your"
+        },
+        {
+          "change_type": "insertion",
+          "text": "By"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "mission"
+        },
+        {
+          "change_type": "insertion",
+          "text": "clicking \u201cDecline"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "is to support our employees during their journey, to"
+        },
+        {
+          "change_type": "insertion",
+          "text": "all\u201d, you"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "strengthen"
+        },
+        {
+          "change_type": "insertion",
+          "text": "give"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "our"
+        },
+        {
+          "change_type": "insertion",
+          "text": "your"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "culture, and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "consent"
+        },
+        {
+          "change_type": "equal",
+          "text": " to "
+        },
+        {
+          "change_type": "deletion",
+          "text": "promote"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "diversity"
+        },
+        {
+          "change_type": "insertion",
+          "text": "use"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "of"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "inclusion, and"
+        },
+        {
+          "change_type": "insertion",
+          "text": "technical"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "equal"
+        },
+        {
+          "change_type": "insertion",
+          "text": "cookies"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "opportunities for all"
+        },
+        {
+          "change_type": "insertion",
+          "text": "only"
+        },
+        {
+          "change_type": "equal",
+          "text": ". "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Read more Join Richemont Explore our"
+        },
+        {
+          "change_type": "insertion",
+          "text": "DECLINE"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "job"
+        },
+        {
+          "change_type": "insertion",
+          "text": "ALLCONFIGUREALLOW"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "opportunities"
+        },
+        {
+          "change_type": "insertion",
+          "text": "ALL"
+        }
+      ],
+      "similarity_score": 0.9202659685415406
+    }
+  ]
+}
