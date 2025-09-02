@@ -36,15 +36,13 @@
 
 .columns.columns1 {
   background: #f7f7f7;
-
-  /* Slightly increased padding for a more balanced gutter */
   padding: 48px 44px;
 }
 
 .columns.columns1 > div {
   display: flex;
   flex-direction: row;
-  gap: 68px; /* Increased gap for more breathing room between columns */
+  gap: 68px;
   align-items: flex-start;
 }
 
@@ -102,4 +100,118 @@
 .columns.columns1 li,
 .columns.columns1 a {
   display: none;
+}
+
+
+.columns.columns2 {
+  background: var(--background-color);
+  padding: 0;
+}
+
+/* Outer flex container for columns (text and image side by side) */
+.columns.columns2 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Align tops of text and image */
+  justify-content: center;
+  gap: 62px; /* increased for better separation */
+  padding: 64px 5vw; /* balanced vertical and horizontal padding */
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1280px; /* slightly reduced for better proportion */
+}
+
+/* Responsive stacking on small screens */
+@media (width <= 900px) {
+  .columns.columns2 > div {
+    flex-direction: column;
+    gap: 40px;
+    padding: 36px 4vw 40px;
+    max-width: 100%;
+  }
+}
+
+/* Left column: text */
+.columns.columns2 > div > div:first-child {
+  flex: 1 1 0;
+  max-width: 540px;
+  min-width: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-right: 2vw;
+}
+
+@media (width <= 900px) {
+  .columns.columns2 > div > div:first-child {
+    max-width: 100%;
+    padding-right: 0;
+  }
+}
+
+/* Right column: image */
+.columns.columns2 > div > .columns-img-col {
+  flex: 1 1 0;
+  max-width: 540px;
+  min-width: 220px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 2vw;
+}
+
+@media (width <= 900px) {
+  .columns.columns2 > div > .columns-img-col {
+    max-width: 100%;
+    padding-left: 0;
+    align-items: center;
+  }
+}
+
+.columns.columns2 > div > .columns-img-col img {
+  max-width: 480px; /* increased for better visual proportion */
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;
+  margin: 0 auto;
+  box-shadow: none;
+  align-self: flex-start;
+}
+
+@media (width <= 900px) {
+  .columns.columns2 > div > .columns-img-col img {
+    max-width: 100%;
+  }
+}
+
+/* Heading style for more visual impact */
+.columns.columns2 h1 {
+  color: var(--text-color);
+  font-size: 2.55rem;
+  font-weight: 400;
+  line-height: 1.12;
+  margin-top: 0;
+  margin-bottom: 1.18em;
+  letter-spacing: 0;
+}
+
+/* Paragraph style for better readability and contrast */
+.columns.columns2 p {
+  color: #444;
+  font-size: 1.18rem;
+  line-height: 1.6;
+  margin: 0 0 1.14em;
+}
+
+@media (width <= 900px) {
+  .columns.columns2 h1 {
+    font-size: 1.75rem;
+    margin-bottom: 1em;
+  }
+
+  .columns.columns2 p {
+    font-size: 1.06rem;
+  }
 }
