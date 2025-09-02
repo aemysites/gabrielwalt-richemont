@@ -45,3 +45,70 @@
     padding: 40px 32px;
   }
 }
+
+.hero.hero27 {
+  position: relative;
+  width: 100%;
+  min-height: 340px;
+  border-radius: 14px;
+  overflow: hidden;
+  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=900&q=80'); /* Replace with correct hero image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  margin: 0;
+  padding: 0;
+}
+
+/* Hide the button container (first child div) */
+.hero.hero27 > div:first-child {
+  display: none;
+}
+
+/* Layout last child to push h1 to the bottom and center it */
+.hero.hero27 > div:last-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  min-height: 0;
+  flex: 1 1 0%;
+}
+
+/* Style the headline (nested in last-child) */
+.hero.hero27 > div:last-child h1 {
+  color: #fff;
+  font-size: 2.7rem;
+  font-weight: 400;
+  text-align: center;
+  margin: 0 0 44px;
+  text-shadow: 0 4px 28px rgb(0 0 0 / 78%), 0 1px 2px rgb(0 0 0 / 33%);
+  letter-spacing: 0.01em;
+  line-height: 1.18;
+  width: 100%;
+  max-width: 1150px;
+  box-sizing: border-box;
+  padding-left: 28px;
+  padding-right: 28px;
+  background: none;
+  border-radius: 0;
+}
+
+@media (width <= 900px) {
+  .hero.hero27 {
+    min-height: 180px;
+    border-radius: 8px;
+  }
+
+  .hero.hero27 > div:last-child h1 {
+    font-size: 1.25rem;
+    margin-bottom: 18px;
+    max-width: 97vw;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
