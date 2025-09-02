@@ -1,0 +1,159 @@
+{
+  "originUrl": "https://www.richemont.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.richemont.com/",
+      "source": "MANUAL",
+      "targetPath": "/",
+      "id": "57fbc00c934033ee7eaab2130a5d75698d046195"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/",
+      "source": "MANUAL",
+      "targetPath": "/about-us",
+      "id": "e7f95c8319befe6b435db6c296990a9f7e1fec3a"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/ambition-values/",
+      "source": "MANUAL",
+      "targetPath": "/about-us/ambition-values",
+      "id": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/corporate-governance/",
+      "source": "MANUAL",
+      "targetPath": "/about-us/corporate-governance",
+      "id": "04d72df83e365e7730e51e89405eb7b94caf772d"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/global-presence/",
+      "source": "MANUAL",
+      "targetPath": "/about-us/global-presence",
+      "id": "e8fa96e909b2bb66cf66961c3552de555dc617b4"
+    },
+    {
+      "url": "https://www.richemont.com/about-us/history/",
+      "source": "MANUAL",
+      "targetPath": "/about-us/history",
+      "id": "fbd2de529d2a8806798868135256a97e4495de57"
+    },
+    {
+      "url": "https://www.richemont.com/investors/",
+      "source": "MANUAL",
+      "targetPath": "/investors",
+      "id": "921776faaf9e5b26241d1f4ad54f23aedc27f57e"
+    },
+    {
+      "url": "https://www.richemont.com/news-media/",
+      "source": "MANUAL",
+      "targetPath": "/news-media",
+      "id": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons",
+      "id": "57185fa3f1b5ee9559f479718bde62073ec85b25"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/a-lange-soehne",
+      "id": "738f647a2e2c883c764f80404dc151d346b50724"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/alaia/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/alaia",
+      "id": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/baume-mercier",
+      "id": "7a94ca49983ee146e5d8745a2e14d631390c57a9"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/buccellati/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/buccellati",
+      "id": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/cartier/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/cartier",
+      "id": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/chloe/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/chloe",
+      "id": "46df0e514b3085ea2a6835807d6141725f8fe907"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/van-cleef-arpels",
+      "id": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55"
+    },
+    {
+      "url": "https://www.richemont.com/our-maisons/vhernier/",
+      "source": "MANUAL",
+      "targetPath": "/our-maisons/vhernier",
+      "id": "adc450327b619b00207a4fc982301fc003225b0f"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/",
+      "source": "MANUAL",
+      "targetPath": "/sustainability",
+      "id": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b"
+    },
+    {
+      "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+      "source": "MANUAL",
+      "targetPath": "/sustainability/sustainability-approach",
+      "id": "ac373365a469ed781f7abac499c2f9ae933082d0"
+    },
+    {
+      "url": "https://www.richemont.com/talent/",
+      "source": "MANUAL",
+      "targetPath": "/talent",
+      "id": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53"
+    },
+    {
+      "url": "https://www.richemont.com/talent/career-areas/",
+      "source": "MANUAL",
+      "targetPath": "/talent/career-areas",
+      "id": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc"
+    },
+    {
+      "url": "https://www.richemont.com/talent/technology-at-richemont/",
+      "source": "MANUAL",
+      "targetPath": "/talent/technology-at-richemont",
+      "id": "aad1897e740f3e62b1a583cf40d43d47d6200b66"
+    },
+    {
+      "url": "https://www.richemont.com/talent/why-join-us/",
+      "source": "MANUAL",
+      "targetPath": "/talent/why-join-us",
+      "id": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
