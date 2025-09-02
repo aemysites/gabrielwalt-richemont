@@ -597,8 +597,6 @@
   margin-bottom: 0;
 }
 
-
-/* Vertically center the entire columns block in its parent */
 .columns.columns10 {
   display: flex;
   flex-direction: column;
@@ -606,15 +604,14 @@
   min-height: 80vh;
 }
 
-/* Columns row: side by side, centered, with balanced gap */
 .columns.columns10 > div {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 72px; /* slight gap reduction for visual balance */
+  gap: 72px;
   padding: 0;
-  min-height: unset; /* let parent control vertical alignment */
+  min-height: unset;
   box-sizing: border-box;
 }
 
@@ -630,7 +627,6 @@
   }
 }
 
-/* Left column - logo wrapper */
 .columns.columns10 .columns-img-col {
   display: flex;
   align-items: center;
@@ -642,7 +638,6 @@
   margin: 0;
 }
 
-/* Logo size and centering */
 .columns.columns10 .columns-img-col img {
   width: 100%;
   max-width: 340px;
@@ -651,7 +646,6 @@
   display: block;
 }
 
-/* Right column - text content */
 .columns.columns10 > div > div:not(.columns-img-col) {
   display: flex;
   flex-direction: column;
@@ -663,7 +657,6 @@
   padding: 0;
 }
 
-/* Heading and text */
 .columns.columns10 h1 {
   font-size: 2.25rem;
   font-weight: 500;
@@ -680,12 +673,10 @@
   letter-spacing: 0;
 }
 
-/* Button container - more vertical space */
 .columns.columns10 .button-container {
   margin-top: 28px;
 }
 
-/* Button styling override for outline look */
 .columns.columns10 .button-container .button {
   border: 1px solid #38566A;
   background: transparent;
@@ -703,4 +694,78 @@
 .columns.columns10 .button-container .button:focus {
   background: #38566A;
   color: #fff;
+}
+
+
+.columns.columns15 {
+  background: #f6f5f3;
+  padding: 56px 0 48px;
+}
+
+.columns.columns15 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start; /* Top-align both columns */
+  width: 100%;
+  max-width: 100%;
+  gap: 0;
+}
+
+.columns.columns15 > div > div {
+  flex: 1 1 0;
+  min-width: 0;
+  max-width: 440px; /* More optimal line length */
+  box-sizing: border-box;
+  text-align: center;
+  padding: 0 40px;   /* More horizontal space for balanced look */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Divider: vertical border on left of second column, full height of content */
+.columns.columns15 > div > div:nth-child(2) {
+  border-left: 1px solid #e0e0e0;
+  padding-left: 40px; /* Ensure divider has space from text */
+}
+
+/* Heading styling */
+.columns.columns15 > div > div h3 {
+  font-size: 13px;
+  font-weight: 400;
+  color: #8d8d8d;
+  text-transform: lowercase;
+  margin: 0 0 10px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+
+/* Paragraph styling */
+.columns.columns15 > div > div p {
+  font-size: 17px;
+  color: #525252;
+  line-height: 1.5;
+  margin: 0;
+  text-align: center;
+}
+
+/* Responsive: stack columns vertically and remove divider */
+@media (width <= 900px) {
+  .columns.columns15 > div {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 32px;
+  }
+
+  .columns.columns15 > div > div {
+    padding: 0;
+    max-width: 100%;
+  }
+
+  .columns.columns15 > div > div:nth-child(2) {
+    border-left: none;
+    padding-left: 0;
+  }
 }
