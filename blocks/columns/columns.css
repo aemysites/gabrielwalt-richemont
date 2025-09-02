@@ -484,7 +484,6 @@
   }
 }
 
-/* Image column: fix aspect ratio and overlay */
 .columns.columns7 .columns-img-col {
   position: relative;
   width: 480px;
@@ -517,7 +516,6 @@
   object-fit: cover;
 }
 
-/* Play button overlay: use a white circle with a dark triangle inside */
 .columns.columns7 .columns-img-col::after {
   display: block;
   position: absolute;
@@ -548,7 +546,6 @@
   pointer-events: none;
 }
 
-/* Text column: constrain width and align top with image */
 .columns.columns7 > div > div:not(.columns-img-col) {
   min-width: 0;
   max-width: 600px;
@@ -566,7 +563,6 @@
   }
 }
 
-/* Heading: subtitle simulation, divider spacing improved */
 .columns.columns7 > div > div:not(.columns-img-col) h1 {
   margin-top: 0;
   margin-bottom: 12px;
@@ -580,7 +576,6 @@
   max-width: 520px;
 }
 
-/* Subtitle simulation: style first line */
 .columns.columns7 > div > div:not(.columns-img-col) h1::first-line {
   color: #595959;
   font-size: 1.09rem;
@@ -589,7 +584,6 @@
   letter-spacing: 0.02em;
 }
 
-/* Paragraph styling */
 .columns.columns7 > div > div:not(.columns-img-col) p {
   font-size: var(--body-font-size-m);
   color: var(--dark-color);
@@ -601,4 +595,112 @@
 
 .columns.columns7 > div > div:not(.columns-img-col) p:last-child {
   margin-bottom: 0;
+}
+
+
+/* Vertically center the entire columns block in its parent */
+.columns.columns10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+/* Columns row: side by side, centered, with balanced gap */
+.columns.columns10 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 72px; /* slight gap reduction for visual balance */
+  padding: 0;
+  min-height: unset; /* let parent control vertical alignment */
+  box-sizing: border-box;
+}
+
+@media (width <= 900px) {
+  .columns.columns10 {
+    min-height: unset;
+  }
+
+  .columns.columns10 > div {
+    flex-direction: column;
+    gap: 32px;
+    padding: 32px 0;
+  }
+}
+
+/* Left column - logo wrapper */
+.columns.columns10 .columns-img-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 220px;
+  max-width: 400px;
+  flex: 1 1 320px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Logo size and centering */
+.columns.columns10 .columns-img-col img {
+  width: 100%;
+  max-width: 340px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Right column - text content */
+.columns.columns10 > div > div:not(.columns-img-col) {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 540px;
+  width: 100%;
+  gap: 18px;
+  padding: 0;
+}
+
+/* Heading and text */
+.columns.columns10 h1 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  color: #3C3C3C;
+  line-height: 1.12;
+  margin: 0 0 10px;
+  letter-spacing: 0;
+}
+
+.columns.columns10 p {
+  font-size: 1.125rem;
+  color: #444;
+  margin: 0 0 10px;
+  letter-spacing: 0;
+}
+
+/* Button container - more vertical space */
+.columns.columns10 .button-container {
+  margin-top: 28px;
+}
+
+/* Button styling override for outline look */
+.columns.columns10 .button-container .button {
+  border: 1px solid #38566A;
+  background: transparent;
+  color: #38566A;
+  border-radius: 3px;
+  padding: 8px 28px;
+  font-size: 1rem;
+  margin: 0;
+  box-shadow: none;
+  transition: background 0.2s, color 0.2s;
+  min-width: 120px;
+}
+
+.columns.columns10 .button-container .button:hover,
+.columns.columns10 .button-container .button:focus {
+  background: #38566A;
+  color: #fff;
 }
