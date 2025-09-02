@@ -108,21 +108,19 @@
   padding: 0;
 }
 
-/* Outer flex container for columns (text and image side by side) */
 .columns.columns2 > div {
   display: flex;
   flex-direction: row;
-  align-items: flex-start; /* Align tops of text and image */
+  align-items: flex-start;
   justify-content: center;
-  gap: 62px; /* increased for better separation */
-  padding: 64px 5vw; /* balanced vertical and horizontal padding */
+  gap: 62px;
+  padding: 64px 5vw;
   box-sizing: border-box;
   width: 100%;
   margin: 0 auto;
-  max-width: 1280px; /* slightly reduced for better proportion */
+  max-width: 1280px;
 }
 
-/* Responsive stacking on small screens */
 @media (width <= 900px) {
   .columns.columns2 > div {
     flex-direction: column;
@@ -132,7 +130,6 @@
   }
 }
 
-/* Left column: text */
 .columns.columns2 > div > div:first-child {
   flex: 1 1 0;
   max-width: 540px;
@@ -150,7 +147,6 @@
   }
 }
 
-/* Right column: image */
 .columns.columns2 > div > .columns-img-col {
   flex: 1 1 0;
   max-width: 540px;
@@ -170,7 +166,7 @@
 }
 
 .columns.columns2 > div > .columns-img-col img {
-  max-width: 480px; /* increased for better visual proportion */
+  max-width: 480px;
   width: 100%;
   height: auto;
   display: block;
@@ -186,7 +182,6 @@
   }
 }
 
-/* Heading style for more visual impact */
 .columns.columns2 h1 {
   color: var(--text-color);
   font-size: 2.55rem;
@@ -197,7 +192,6 @@
   letter-spacing: 0;
 }
 
-/* Paragraph style for better readability and contrast */
 .columns.columns2 p {
   color: #444;
   font-size: 1.18rem;
@@ -213,5 +207,86 @@
 
   .columns.columns2 p {
     font-size: 1.06rem;
+  }
+}
+
+
+.columns.columns3 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;               /* Align both columns to the top */
+  justify-content: space-between;
+  gap: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 64px 0 32px;               /* More top padding, less bottom to raise block */
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.columns.columns3 > div > div:first-child {
+  flex: 1 1 0;
+  max-width: 400px;
+  min-width: 260px;
+  margin: 0;
+  align-self: flex-start;                /* Top-align text column with image */
+  box-sizing: border-box;
+}
+
+.columns.columns3 > div > div:first-child h1 {
+  color: #333;
+  font-size: 2.5rem;
+  line-height: 1.16;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 32px;
+}
+
+.columns.columns3 > div > div:first-child p {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.columns.columns3 .columns-img-col {
+  flex: 1 1 0;
+  max-width: 540px;
+  min-width: 260px;
+  display: flex;
+  align-items: flex-start;               /* Top-align image with text column */
+  justify-content: flex-end;
+  align-self: flex-start;                /* Top-align image column in flex container */
+  box-sizing: border-box;
+}
+
+.columns.columns3 .columns-img-col img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background: transparent;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media (width <= 900px) {
+  .columns.columns3 > div {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 32px;
+    padding: 32px 0;
+  }
+
+  .columns.columns3 > div > div:first-child,
+  .columns.columns3 .columns-img-col {
+    max-width: 100%;
+    min-width: 0;
+    align-self: unset;
+  }
+
+  .columns.columns3 .columns-img-col {
+    justify-content: center;
+    align-items: flex-start;
   }
 }
