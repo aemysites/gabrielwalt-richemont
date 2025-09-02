@@ -1,0 +1,150 @@
+{
+  "templates": [
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/investors/",
+          "uuid": "921776faaf9e5b26241d1f4ad54f23aedc27f57e"
+        },
+        {
+          "url": "https://www.richemont.com/sustainability/",
+          "uuid": "a93c09f07574cb7b34b390333c5e0b6f8042cb2b"
+        },
+        {
+          "url": "https://www.richemont.com/news-media/",
+          "uuid": "c0f29da7a35e3bf5bbb232dd42d4e51ebc9ecce5"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "uuid": "aad1897e740f3e62b1a583cf40d43d47d6200b66"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "uuid": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "uuid": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Showcase Template",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "uuid": "e8fa96e909b2bb66cf66961c3552de555dc617b4"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "uuid": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Grid'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/",
+          "uuid": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "uuid": "57185fa3f1b5ee9559f479718bde62073ec85b25"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "uuid": "e7f95c8319befe6b435db6c296990a9f7e1fec3a"
+        }
+      ]
+    },
+    {
+      "name": "'Gallery Grid'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "uuid": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "uuid": "adc450327b619b00207a4fc982301fc003225b0f"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "uuid": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "uuid": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "uuid": "46df0e514b3085ea2a6835807d6141725f8fe907"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "uuid": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "uuid": "7a94ca49983ee146e5d8745a2e14d631390c57a9"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "uuid": "738f647a2e2c883c764f80404dc151d346b50724"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Grid Page",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "uuid": "fbd2de529d2a8806798868135256a97e4495de57"
+        }
+      ]
+    },
+    {
+      "name": "\"Directory Listing Page\"",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/sustainability/sustainability-approach/",
+          "uuid": "ac373365a469ed781f7abac499c2f9ae933082d0"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/",
+          "uuid": "57fbc00c934033ee7eaab2130a5d75698d046195"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "uuid": "04d72df83e365e7730e51e89405eb7b94caf772d"
+        }
+      ]
+    }
+  ]
+}
