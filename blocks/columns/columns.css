@@ -382,3 +382,88 @@
 .columns.columns4 > div > div:last-child > *:last-child:focus {
   background: #eaf3fa;
 }
+
+
+.columns.columns5 {
+  background: #fff;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+/* Outer row container: side-by-side, vertical center */
+.columns.columns5 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* vertical centering of both columns */
+  gap: 38px;
+}
+
+/* Text column */
+.columns.columns5 > div > div:first-child {
+  flex: 0 1 60%;
+  max-width: 60%;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.6em;
+
+  /* Remove align-self to let parent control alignment */
+}
+
+/* Image column: ensure image is vertically centered beside text */
+.columns.columns5 > div > .columns-img-col {
+  flex: 0 1 40%;
+  max-width: 40%;
+  min-width: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* Image styling */
+.columns.columns5 .columns-img-col picture,
+.columns.columns5 .columns-img-col img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+/* Text styling for paragraphs and links */
+.columns.columns5 p {
+  color: #454545;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 0.6em;
+}
+
+.columns.columns5 a {
+  color: #1a5fb4;
+  text-decoration: underline;
+}
+
+.columns.columns5 strong {
+  font-weight: bold;
+}
+
+/* Responsive: stack columns, adjust spacing */
+@media (width <= 900px) {
+  .columns.columns5 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+
+  .columns.columns5 > div {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 24px;
+  }
+
+  .columns.columns5 > div > div,
+  .columns.columns5 > div > .columns-img-col {
+    max-width: 100%;
+    flex: unset;
+  }
+}
