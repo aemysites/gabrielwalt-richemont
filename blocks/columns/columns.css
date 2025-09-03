@@ -773,7 +773,6 @@
   min-height: 360px;
 }
 
-/* Main row container: two columns side by side, slightly wider left, tighter gutter */
 .columns.columns16 > div {
   display: flex;
   flex-direction: row;
@@ -782,7 +781,6 @@
   min-height: 360px;
 }
 
-/* Left column: intro block, top aligned with less top padding and slightly reduced left gutter */
 .columns.columns16 > div > div:first-child {
   flex: 0 0 44%;
   max-width: 44%;
@@ -795,7 +793,6 @@
   box-sizing: border-box;
 }
 
-/* Right column: job listings, horizontal line nearly full width, little top padding */
 .columns.columns16 > div > div:last-child {
   flex: 1 1 56%;
   max-width: 56%;
@@ -805,7 +802,6 @@
   box-sizing: border-box;
 }
 
-/* Horizontal line at the top of the right column, nearly full width and flush to top */
 .columns.columns16 > div > div:last-child::before {
   display: block;
   width: 98%;
@@ -818,12 +814,10 @@
   border-radius: 1px;
 }
 
-/* Push job listings below the line in right column with tighter spacing */
 .columns.columns16 > div > div:last-child > *:first-child {
   margin-top: 12px;
 }
 
-/* Left column: Typography and button */
 .columns.columns16 > div > div:first-child h1 {
   color: #474A47;
   font-size: 2.38rem;
@@ -864,7 +858,6 @@
   border-color: #474A47;
 }
 
-/* Right column job title links */
 .columns.columns16 > div > div:last-child h3 a {
   color: #474A47;
   font-size: 1.09rem;
@@ -879,7 +872,6 @@
   text-decoration: underline;
 }
 
-/* Right column job list buttons */
 .columns.columns16 > div > div:last-child .button-container .button {
   border: 1px solid #474A47;
   background: #f7f7f5;
@@ -901,7 +893,6 @@
   border-color: #474A47;
 }
 
-/* Job listing lists */
 .columns.columns16 > div > div:last-child ul,
 .columns.columns16 > div > div:last-child li {
   color: #666;
@@ -917,7 +908,6 @@
   margin-top: 0;
 }
 
-/* Responsive stacking for small screens */
 @media (width <= 900px) {
   .columns.columns16 > div {
     flex-direction: column;
@@ -944,5 +934,79 @@
 
   .columns.columns16 > div > div:last-child > *:first-child {
     margin-top: 8px;
+  }
+}
+
+
+.columns.columns17 {
+  background: #f7f7f6;
+}
+
+/* Main row of columns: flex row, compact width */
+.columns.columns17 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+  max-width: 700px; /* match more compact original */
+  margin: 0 auto;
+  padding: 32px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Each column: compact padding, centered */
+.columns.columns17 > div > div {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  position: relative;
+  box-sizing: border-box;
+  padding: 28px 8px;
+}
+
+/* Shorter, visually centered vertical divider */
+.columns.columns17 > div > div:not(:last-child) {
+  border-right: 1px solid #c3c3c2;
+
+  /* By controlling top/bottom padding above, divider is visually centered/shorter */
+}
+
+/* Headline styling */
+.columns.columns17 h3 {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 400;
+  color: #787878;
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+  text-align: center;
+  line-height: 1.4;
+}
+
+/* Value styling with slightly looser vertical gap */
+.columns.columns17 p {
+  margin: 18px 0 0;
+  font-size: 20px;
+  font-weight: 400;
+  color: #4a4a48;
+  text-align: center;
+  line-height: 1.5;
+}
+
+/* Responsive: stack vertically on mobile, remove dividers/padding */
+@media (width <= 700px) {
+  .columns.columns17 > div {
+    flex-direction: column;
+    max-width: none;
+    padding: 24px 0;
+  }
+
+  .columns.columns17 > div > div {
+    border-right: none;
+    padding: 16px 0;
   }
 }
