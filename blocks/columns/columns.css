@@ -1,4 +1,3 @@
-/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -1012,7 +1011,7 @@
 .columns.columns18 > div {
   display: flex;
   flex-direction: row;
-  align-items: center; /* vertical center the image/text columns */
+  align-items: center;
   gap: 64px;
   min-height: 285px;
 }
@@ -1035,8 +1034,6 @@
     justify-content: center;
   }
 }
-
-/* Image column */
 .columns.columns18 .columns-img-col {
   flex: 0 0 335px;
   max-width: 335px;
@@ -1055,8 +1052,6 @@
   border-radius: 0;
   margin: 0;
 }
-
-/* Text column */
 .columns.columns18 > div > div:not(.columns-img-col) {
   flex: 1 1 0;
   display: flex;
@@ -1066,8 +1061,6 @@
   min-height: 0;
   height: 100%;
 }
-
-/* Heading styles */
 .columns.columns18 h1,
 .columns.columns18 h2 {
   color: #464646;
@@ -1076,8 +1069,6 @@
   margin: 0 0 18px;
   line-height: 1.13;
 }
-
-/* Paragraph styles */
 .columns.columns18 p {
   color: #464646;
   font-size: 1rem;
@@ -1085,8 +1076,6 @@
   line-height: 1.5;
   max-width: 680px;
 }
-
-/* Button override */
 .columns.columns18 .button-container .button {
   background: #fff;
   border: 1px solid #416483;
@@ -1107,4 +1096,70 @@
   background: #416483;
   color: #fff;
   text-decoration: none;
+}
+
+
+.columns.columns28 > div {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 24px 32px;
+  justify-items: center;
+  align-items: center;
+  background: #fff;
+  max-width: 1060px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 36px 0 32px 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1100px) {
+  .columns.columns28 > div {
+    max-width: 100%;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media (max-width: 700px) {
+  .columns.columns28 > div {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
+
+.columns.columns28 > div > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  min-height: 40px;
+  width: 100%;
+  height: 100%;
+  color: #555;
+  text-align: center;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.columns.columns28 > div > div img,
+.columns.columns28 > div > div svg {
+  display: block;
+  max-height: 28px;
+  max-width: 120px;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+  filter: grayscale(100%) brightness(0.35);
+}
+
+.columns.columns28 > div > div {
+  font-size: 1rem;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
 }
