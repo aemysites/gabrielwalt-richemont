@@ -1246,7 +1246,6 @@
   padding: 0;
 }
 
-/* Ensure the row of columns is always visible and side by side */
 .columns.columns32 > div {
   display: flex;
   flex-direction: row;
@@ -1257,7 +1256,6 @@
   box-sizing: border-box;
 }
 
-/* Each image column fills 1/3 of the row */
 .columns.columns32 > div > .columns-img-col {
   flex: 1 1 0;
   min-width: 0;
@@ -1268,7 +1266,6 @@
   box-sizing: border-box;
 }
 
-/* Ensure images fill their column, remain visible, and do not collapse */
 .columns.columns32 .columns-img-col picture,
 .columns.columns32 .columns-img-col img {
   width: 100%;
@@ -1283,13 +1280,11 @@
   position: static;
 }
 
-/* Add a fallback min-height for empty or missing images */
 .columns.columns32 .columns-img-col {
   background: #f8f8f8;
   min-height: 250px;
 }
 
-/* Responsive: stack columns vertically on small screens */
 @media (width <= 900px) {
   .columns.columns32 > div {
     flex-direction: column;
@@ -1298,4 +1293,112 @@
   .columns.columns32 .columns-img-col {
     min-height: 180px;
   }
+}
+
+
+.columns.columns35 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 32px 0;
+}
+
+/* Direct child is horizontal row of columns */
+.columns.columns35 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+  gap: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* Text column: slightly narrower */
+.columns.columns35 > div > div:first-child {
+  flex: 0 1 52%;
+  max-width: 52%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+/* Image column: slightly wider, perfectly top-aligned */
+.columns.columns35 > div > div:last-child {
+  flex: 0 1 48%;
+  max-width: 48%;
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+  min-width: 260px;
+  aspect-ratio: 16 / 7.5;
+  background: #d8d8d8 url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80') center center/cover no-repeat;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 10%);
+  border-radius: 14px;
+  margin-top: 0;
+  align-self: flex-start;
+}
+
+/* Remove top margin from headline and ensure compact line-height */
+.columns.columns35 h1 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 2rem;
+  line-height: 1.08;
+  color: #434343;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Hide the button in the text column for visual parity */
+.columns.columns35 .button-container {
+  display: none;
+}
+
+/* Paragraph tweaks for more compact, readable block */
+.columns.columns35 p {
+  color: #434343;
+  font-size: 1.06rem;
+  line-height: 1.33;
+  margin: 0 0 8px;
+}
+
+.columns.columns35 > div > div:first-child > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive: stack columns vertically */
+@media (width <= 900px) {
+  .columns.columns35,
+  .columns.columns35 > div {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .columns.columns35 > div > div:first-child,
+  .columns.columns35 > div > div:last-child {
+    max-width: 100%;
+    flex-basis: auto;
+  }
+
+  .columns.columns35 > div > div:last-child {
+    min-height: 120px;
+    aspect-ratio: 16/9;
+    margin: 0 auto;
+  }
+}
+
+/* If an <img> is present in the right column, ensure it fills the container */
+.columns.columns35 > div > div:last-child img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 10%);
 }
