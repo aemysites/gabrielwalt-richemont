@@ -1492,7 +1492,6 @@
 
 
 .cards.cards38 {
-  /* Remove extra margin/padding above and below the cards block */
   margin-top: 0;
   padding-top: 0;
 }
@@ -1507,8 +1506,6 @@
   place-items: start stretch;
   width: 100%;
   max-width: 1200px;
-
-  /* Center the cards block horizontally in its parent, if allowed */
   margin-left: auto;
   margin-right: auto;
 }
@@ -1526,8 +1523,6 @@
   width: 100%;
   max-width: none;
   margin: 0;
-
-  /* Remove any inherited height to prevent excess space below cards */
   height: auto;
 }
 
@@ -1550,7 +1545,6 @@
   background: transparent;
 }
 
-/* Card body: Add modest side padding for text alignment, remove excess bottom space */
 .cards.cards38 .cards-card-body {
   display: flex;
   flex-direction: column;
@@ -1561,7 +1555,6 @@
   box-sizing: border-box;
 }
 
-/* Document label */
 .cards.cards38 .cards-card-body > p:first-child {
   color: #939598;
   font-size: 11px;
@@ -1572,7 +1565,6 @@
   font-weight: 400;
 }
 
-/* Card heading/title */
 .cards.cards38 .cards-card-body > h3 {
   color: #333;
   font-size: 18px;
@@ -1583,7 +1575,6 @@
   letter-spacing: normal;
 }
 
-/* "Select language" style */
 .cards.cards38 .cards-card-body > p:not(.button-container, :first-child) {
   color: #0066b3;
   font-size: 13px;
@@ -1593,7 +1584,6 @@
   font-weight: 400;
 }
 
-/* Inline link style for .button, no underline except on hover */
 .cards.cards38 .cards-card-body .button {
   background: none;
   border: none;
@@ -1620,8 +1610,6 @@
   text-decoration: underline;
 }
 
-/* Download icon alignment fix */
-
 .cards.cards38 .cards-card-body .button::before {
   display: inline-block;
   position: absolute;
@@ -1633,7 +1621,6 @@
   transform: translateY(-50%);
 }
 
-/* Download/link spacing/tighter stacking for language links */
 .cards.cards38 .cards-card-body .button-container {
   margin: 0;
 }
@@ -1642,12 +1629,10 @@
   margin-top: 2px;
 }
 
-/* Remove excessive bottom margin from card body last child */
 .cards.cards38 .cards-card-body > *:last-child {
   margin-bottom: 0;
 }
 
-/* Responsive: stack to 2 columns at medium, 1 at small, adjust padding/gap */
 @media (width <= 1100px) {
   .cards.cards38 > ul {
     grid-template-columns: repeat(2, 1fr);
@@ -1681,8 +1666,138 @@
   }
 }
 
-/* Remove default margin for ul and li (to avoid spacing issues) */
 .cards.cards38 > ul,
 .cards.cards38 > ul > li {
   margin: 0;
+}
+
+
+.cards.cards39 ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: #fff;
+}
+
+@media (width <= 1020px) {
+  .cards.cards39 ul {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+}
+
+@media (width <= 600px) {
+  .cards.cards39 ul {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
+/* Card */
+.cards.cards39 ul > li {
+  background: #fff;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 440px;
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Card image: always reserve vertical space, force visible, even if image fails */
+.cards.cards39 .cards-card-image {
+  width: 100%;
+  height: 150px;
+  min-height: 150px;
+  max-height: 180px;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.cards.cards39 .cards-card-image picture,
+.cards.cards39 .cards-card-image img {
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+  margin: 0;
+}
+
+/* Card body: padding, flex column, stretch to fill card */
+.cards.cards39 .cards-card-body {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 28px 24px 24px;
+  margin: 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* Card headline */
+.cards.cards39 .cards-card-body h3 {
+  color: #333A41;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.4;
+  margin: 0 0 24px;
+  text-align: left;
+  letter-spacing: normal;
+  word-break: break-word;
+  overflow-wrap: break-word; /* Added this for modern alternative */
+}
+
+/* Link container: push link to bottom, add bottom padding */
+.cards.cards39 .cards-card-body .button-container {
+  margin-top: auto;
+  padding-bottom: 8px;
+  align-self: flex-start;
+  text-align: left;
+  width: 100%;
+}
+
+/* Link style */
+.cards.cards39 .cards-card-body .button-container .button {
+  background: none;
+  color: #0072CE;
+  border: none;
+  border-radius: 0;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  box-shadow: none;
+  display: inline;
+  line-height: 1.4;
+  font-weight: 400;
+  text-decoration: underline;
+  cursor: pointer;
+  white-space: normal;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
+/* Link hover/focus state */
+.cards.cards39 .cards-card-body .button-container .button:hover,
+.cards.cards39 .cards-card-body .button-container .button:focus {
+  background: none;
+  color: #1d3ecf;
+  border: none;
+  text-decoration: underline;
 }
