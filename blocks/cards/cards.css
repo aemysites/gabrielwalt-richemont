@@ -1934,3 +1934,114 @@
   margin: 0;
   padding: 0;
 }
+
+
+.cards.cards9 > ul {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(280px, 1fr));
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  place-items: start stretch;
+}
+
+@media (width <= 1200px) {
+  .cards.cards9 > ul {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+  }
+}
+
+@media (width <= 700px) {
+  .cards.cards9 > ul {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.cards.cards9 > ul > li {
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 100%;
+}
+
+.cards.cards9 .cards-card-image {
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.cards.cards9 .cards-card-image picture,
+.cards.cards9 .cards-card-image img {
+  width: 100%;
+  height: 164px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+.cards.cards9 .cards-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 12px;
+  padding-bottom: 0;
+  margin: 0;
+  min-height: 0;
+  height: auto;
+}
+
+.cards.cards9 .cards-card-body h2 {
+  font-size: 22px;
+  color: #232c35;
+  font-weight: 400;
+  margin: 0 0 14px;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+.cards.cards9 .cards-card-body p {
+  font-size: 15px;
+  color: #525e6d;
+  margin: 0 0 20px;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+.cards.cards9 .cards-card-body .button-container {
+  margin-top: auto;
+  padding-bottom: 2px;
+  width: 100%;
+  text-align: left;
+}
+
+.cards.cards9 .cards-card-body .button {
+  color: #1570b2;
+  background: none;
+  border: none;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0;
+  text-align: left;
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0;
+  display: inline-block;
+  line-height: 1.6;
+  text-decoration: underline;
+}
+
+.cards.cards9 .cards-card-body .button:hover,
+.cards.cards9 .cards-card-body .button:focus {
+  color: #1570b2;
+  background: none;
+  border: none;
+  text-decoration: underline;
+}
